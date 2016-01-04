@@ -5,7 +5,7 @@ describe('describe test theme block', {
     `function_a` = function(...) TRUE,
     `function_b` = function(...) data.frame(z = rnorm(10)),
 
-    test_that('what test is testing', {
+    test_that('what is this testing', {
       actual   <- test_function(params)
       expected <- iris 
       expect_equal(actual, expected)
