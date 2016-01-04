@@ -1,6 +1,8 @@
 # goodr
 
-Minimizing the programming friction to good R programming principles
+Minimizing the programming friction to good coding principles within R
 
 * Documentation
 * Testing
+
+
