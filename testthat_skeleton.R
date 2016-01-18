@@ -14,4 +14,3 @@ describe('describe test theme block', {
     }),
   )
 })
-
