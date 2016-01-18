@@ -1,5 +1,3 @@
-context('fill_in_a_context")
-
 describe('describe test theme block', {
   with_mock(
     `function_a` = function(...) TRUE,
