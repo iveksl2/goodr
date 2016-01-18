@@ -19,7 +19,8 @@ Insert the following commands within your `~/.vimrc`:
 :map fd :r ~/.vim/goodr/roxygen_skeleton.R <ENTER>
 :map td :r ~/.vim/goodr/testthat_skeleton.R <ENTER>
 ```
-Thats it! One can obviously change key mappings to what is intuitive for you. 
+Thats it!     
+One can obviously change key mappings to what is intuitive for you. 
 `fd` & `td` are meant to be shorthand for `function documentation` & `testing documentation` 
 
 #### Optional Philosophical Background
