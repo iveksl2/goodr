@@ -23,7 +23,7 @@ Thats it!
 One can obviously change key mappings to what is intuitive for you. 
 `fd` & `td` are meant to be shorthand for `function documentation` & `testing documentation` 
 
-#### Optional Philosophical Background
+###### Optional Philosophical Background
 TODO: Get actual Quote 
 "Optimal Programming can be thought of as a 'Type theory' where on has intention 
 in mind and mapping to minimal set of inputs and generating proper output' [Robert Krzyzanowski](http://homepages.math.uic.edu/~robertk/)
@@ -33,8 +33,8 @@ in mind and mapping to minimal set of inputs and generating proper output' [Robe
   * DDT (Documentation Driven Developement)
 
 
-AcknowledgeMent(s):   
-[Peter Hurford](https://github.com/peterhurford), [Kirill Sevastyanenko](https://github.com/kirillseva?tab=activity) & [Robert Krzyzanowski](https://github.com/robertzk) for drilling in importance of above concepts
+Acknowledgements:   
+[Peter Hurford](https://github.com/peterhurford), [Kirill Sevastyanenko](https://github.com/kirillseva) & [Robert Krzyzanowski](https://github.com/robertzk) for drilling in importance of above concepts
 
 
 
