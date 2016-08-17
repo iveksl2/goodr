@@ -31,7 +31,7 @@ One can obviously change key mappings to what is intuitive for you.
 
 
 Acknowledgements:   
-[Peter Hurford](https://github.com/peterhurford), [Kirill Sevastyanenko](https://github.com/kirillseva) & [Robert Krzyzanowski](https://github.com/robertzk) for drilling in importance of above concepts
+[Peter Hurford](https://github.com/peterhurford), [Kirill Sevastyanenko](https://github.com/kirillseva) & [Robert Krzyzanowski](https://github.com/robertzk) for accentuating the importance of above concepts
 
 
 
